@@ -21,7 +21,7 @@ The number of people who fly has dramatically increased in recent years. Pricing
 - The machine learnig model accuracy is around 83%
 - Hypertuning the model GridSearch CV is a technique used to validate the model with different parameter combinations, by creating a grid of parameters and trying all the     combinations to compare which combination gave the best results. We apply grid search on our model – accuracy 87%
 
-### Steps to run this application in your system
+### Steps to run this application in your system 
 - Clone or download the repo.
 - Open command prompt in the downloaded folder.
 
