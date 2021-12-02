@@ -1,4 +1,4 @@
-# Flight-Fare-Prediction-
+# Flight-Fare-Prediction
 
 ![image](https://user-images.githubusercontent.com/86415241/134727918-37300629-128a-4b26-a2b2-49adecab3f14.png)
 
