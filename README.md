@@ -10,7 +10,7 @@ Airlines use complex algorithms to calculate flight prices based on the many fac
 
 The number of people who fly has dramatically increased in recent years. Pricing alter dynamically owing to many variables, making it difficult for airlines to maintain prices. As a result, we will attempt to solve this problem using machine learning. This can assist airlines in determining what rates they can keep. Customers can also use it to forecast future airline prices and plan their trip appropriately.
 
-## Approach
+## Approach 
 - Data was used from Kaggle which is a freely available platform for data scientists and machine learning enthusiasts. We are using jupyter-notebook to run Flight Price Prediction task.
 - Data Analysis
 - Data Preparation
