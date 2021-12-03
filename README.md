@@ -17,7 +17,7 @@ The number of people who fly has dramatically increased in recent years. Pricing
 - Model Building
 - Predicting the model on test data
 
-## Usage
+## Usage 
 
 - Just run `jupyter notebook` in terminal and it will run in your browser.
 
